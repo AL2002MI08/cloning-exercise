@@ -130,6 +130,21 @@
     box-shadow: 0 0 2px 1px rgba(189, 189, 189, 0.5);
     cursor: pointer;
   }
+
+  .lang {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 13px;
+    color: #111;
+  }
+
+  .lang a {
+    margin-left: 5px;
+    color: #1a0dab;
+  }
+  .lang a:hover {
+    text-decoration: underline;
+  }
   
   footer {
     width: 100%;
